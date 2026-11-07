@@ -1,0 +1,14 @@
+/Users/pramodgurung/dotnet-learning/Day01/bin/Debug/net10.0/Day01
+/Users/pramodgurung/dotnet-learning/Day01/bin/Debug/net10.0/Day01.deps.json
+/Users/pramodgurung/dotnet-learning/Day01/bin/Debug/net10.0/Day01.runtimeconfig.json
+/Users/pramodgurung/dotnet-learning/Day01/bin/Debug/net10.0/Day01.dll
+/Users/pramodgurung/dotnet-learning/Day01/bin/Debug/net10.0/Day01.pdb
+/Users/pramodgurung/dotnet-learning/Day01/obj/Debug/net10.0/Day01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pramodgurung/dotnet-learning/Day01/obj/Debug/net10.0/Day01.AssemblyInfoInputs.cache
+/Users/pramodgurung/dotnet-learning/Day01/obj/Debug/net10.0/Day01.AssemblyInfo.cs
+/Users/pramodgurung/dotnet-learning/Day01/obj/Debug/net10.0/Day01.csproj.CoreCompileInputs.cache
+/Users/pramodgurung/dotnet-learning/Day01/obj/Debug/net10.0/Day01.dll
+/Users/pramodgurung/dotnet-learning/Day01/obj/Debug/net10.0/refint/Day01.dll
+/Users/pramodgurung/dotnet-learning/Day01/obj/Debug/net10.0/Day01.pdb
+/Users/pramodgurung/dotnet-learning/Day01/obj/Debug/net10.0/Day01.genruntimeconfig.cache
+/Users/pramodgurung/dotnet-learning/Day01/obj/Debug/net10.0/ref/Day01.dll
